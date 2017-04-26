@@ -1,7 +1,8 @@
 # Antilog
 A simple replacement of console log
 
-We have an abundance of technical stack with wich we are able to build sofisticated systems and solveing complex problems
+We have an abundance of technical stack which helping us to build sofisticated systems and solveing complex problems
+But there is a problem.
 
 ## Problem
 
@@ -22,16 +23,16 @@ And spending only 5 to 10% of time in solving real problem and innovation
    - it will take few week to months for the developer to get fimelier with all the common errors in the system
    - next want to use intrduce another new library or tecqunic and the process reperats
 
-Findig right solution for build erros and other common erros which encountered by an avrage developer is a simple `machine learning` problem.
+Findig right solution for build erros and other common erros which encountered by a developer is a simple `machine learning` problem.
 
 #### What we need
   
   - Dataset of errors and solutions
-  - Algrothem to find the best soluton and improving the datase
+  - Algrothem to find the best soluton and improving the dataset
   
-An avrage deeloper is spending time on looking at console logs rather focusing on solving actual problem and innovating new things.
+Most of the deelopers are spending time on looking at console logs rather focusing on solving actual problem and innovating new things.
 
 ## What changes it can bring ?
 
  - It makes learning and adopting to a new technology stack less painful
- - An avrage developer can be more innovative
+ - Developers can be more productive and innovative
