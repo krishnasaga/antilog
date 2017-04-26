@@ -2,7 +2,7 @@
 A simple replacement of console log
 
 We have an abundance of technical stack which helping us to build sofisticated systems and solveing complex problems
-But there is a problem.
+- But there is a problem.
 
 ## Problem
 
